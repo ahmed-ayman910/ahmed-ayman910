@@ -40,15 +40,20 @@ Driven by curiosity and a commitment to continuous learning, I'm always eager to
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3"/>
 
 </p>
+
 ## 🐍 My Contributions 🐍
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed-ayman910/ahmed-ayman910/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmed-ayman910/ahmed-ayman910/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/ahmed-ayman910/ahmed-ayman910/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ahmed-ayman910/ahmed-aymn910/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ahmed-ayman910/ahmed-aymn910/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation"
+      src="https://raw.githubusercontent.com/ahmed-ayman910/ahmed-aymn910/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 
 <br/>
 ---
